@@ -4,11 +4,11 @@ echo -n "site yaz : "
 read WEBSITE
 
 clear
-echo -n "1 : db öğrenme \n"
-echo -n "2 : db çekme \n"
-echo -n "3 : table çekme \n"
-echo -n "4 : update \n"
-echo -n "Seç : "
+echo -e "1 : db öğrenme \n"
+echo -e "2 : db çekme \n"
+echo -e "3 : table çekme \n"
+echo -e "4 : update \n"
+echo -e "Seç : "
 
 read COUNTRY
 
